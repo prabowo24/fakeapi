@@ -1,0 +1,32 @@
+{
+  "quiz": [
+		{
+			"id":1,
+			"name":"hood",
+			"question":"Do you know who i am?",
+			"answers":[
+				{
+					"answer":"Yes",
+					"correct":false
+				},{
+					"answer":"No",
+					"correct":true
+				}
+			]
+		},{
+			"id":2,
+			"name":"roof",
+			"question":"Where i am?",
+			"answers":[
+				{
+					"answer":"Yes",
+					"correct":false
+				},{
+					"answer":"No",
+					"correct":true
+				}
+			]
+		}
+
+	]
+}
