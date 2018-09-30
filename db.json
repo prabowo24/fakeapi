@@ -2,15 +2,21 @@
   "quiz": [
 		{
 			"id":1,
-			"name":"hood",
-			"question":"Do you know who i am?",
+			"name":"pintu_mobil",
+			"question":"What Intellectual Property right are most suitable as protection on the body of the car?",
 			"answers":[
 				{
-					"answer":"Yes",
+					"answer":"Industrial Design",
 					"correct":false
 				},{
-					"answer":"No",
-					"correct":true
+					"answer":"Patent",
+					"correct":false
+				},{
+					"answer":"Copyright",
+					"correct":false
+				},{
+					"answer":"Trademark",
+					"correct":false
 				}
 			]
 		},{
