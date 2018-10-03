@@ -3,6 +3,7 @@
 		{
 			"id":1,
 			"name":"pintu_mobil",
+			"title":"Body",
 			"question":"What Intellectual Property right are most suitable as protection on the body of the car?",
 			"answers":[
 				{
@@ -21,15 +22,102 @@
 			]
 		},{
 			"id":2,
-			"name":"roof",
-			"question":"Where i am?",
+			"name":"headlight",
+			"title":"Head Light",
+			"question":"What Intellectual Property right are most suitable as protection on the style of the headlight?",
 			"answers":[
 				{
-					"answer":"Yes",
+					"answer":"Industrial Design",
 					"correct":false
 				},{
-					"answer":"No",
-					"correct":true
+					"answer":"Patent",
+					"correct":false
+				},{
+					"answer":"Copyright",
+					"correct":false
+				},{
+					"answer":"Trademark",
+					"correct":false
+				}
+			]
+		},{
+			"id":3,
+			"name":"tailight",
+			"title":"Tail Light",
+			"question":"What Intellectual Property right are most suitable as protection on the style of the tail light?",
+			"answers":[
+				{
+					"answer":"Industrial Design",
+					"correct":false
+				},{
+					"answer":"Patent",
+					"correct":false
+				},{
+					"answer":"Copyright",
+					"correct":false
+				},{
+					"answer":"Trademark",
+					"correct":false
+				}
+			]
+		},{
+			"id":4,
+			"name":"styledseat",
+			"title":"Styled Seat",
+			"question":"What Intellectual Property right are most suitable as protection on uniquely styled seats?",
+			"answers":[
+				{
+					"answer":"Industrial Design",
+					"correct":false
+				},{
+					"answer":"Patent",
+					"correct":false
+				},{
+					"answer":"Copyright",
+					"correct":false
+				},{
+					"answer":"Trademark",
+					"correct":false
+				}
+			]
+		},{
+			"id":5,
+			"name":"logo",
+			"title":"Logo",
+			"question":"What Intellectual Property right are most suitable as protection on the style of the logo?",
+			"answers":[
+				{
+					"answer":"Industrial Design",
+					"correct":false
+				},{
+					"answer":"Patent",
+					"correct":false
+				},{
+					"answer":"Copyright",
+					"correct":false
+				},{
+					"answer":"Trademark",
+					"correct":false
+				}
+			]
+		},{
+			"id":9,
+			"name":"wheel",
+			"title":"Wheel",
+			"question":"What Intellectual Property right are most suitable as protection on the wheels?",
+			"answers":[
+				{
+					"answer":"Industrial Design",
+					"correct":false
+				},{
+					"answer":"Patent",
+					"correct":false
+				},{
+					"answer":"Copyright",
+					"correct":false
+				},{
+					"answer":"Trademark",
+					"correct":false
 				}
 			]
 		}
